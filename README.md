@@ -52,7 +52,7 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 <td width="35%" align="center">
 
 <img
-  src="./assets/giphy.gif"
+  src="https://raw.githubusercontent.com/Dannyyy7/Dannyyy7/main/assets/giphy.gif"
   width="260"
   alt="Blue Lightning"
 />
