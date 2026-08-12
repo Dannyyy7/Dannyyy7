@@ -52,9 +52,9 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 <td width="35%" align="center">
 
 <img
-  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+  src="https://media.tenor.com/b1p9V.gif"
   width="260"
-  alt="DevOps Animation"
+  alt="Blue Lightning Animation"
 />
 
 </td>
@@ -183,7 +183,7 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 
 <div align="center">
 
-<a href="https://github.com/Dannyyy7/DevOps">
+<a href="https://github.com/Dannyyy7/node-cicd">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dannyyy7&repo=DevOps&theme=transparent&title_color=4DA3FF&icon_color=64B5F6&text_color=90CAF9&border_color=1976D2" />
 </a>
 
@@ -204,6 +204,22 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 - Automated infrastructure provisioning instead of manual AWS configuration
 - Used Docker for consistent application deployment
 - Implemented automated build and deployment processes
+---
+
+## 🤖 CloudOps Copilot — AI-Powered DevOps Assistant
+
+**Technologies:**  
+`Python` `Streamlit` `Hugging Face` `GitHub` `AWS` `Terraform` `Docker` `Jenkins`
+
+- Built an AI-powered DevOps assistant that converts natural-language requirements into DevOps configurations
+- Integrated a Hugging Face model to generate infrastructure and deployment artifacts
+- Generates **Terraform configurations** for infrastructure provisioning
+- Generates **Dockerfiles** for application containerization
+- Generates **Jenkinsfiles** for CI/CD pipeline automation
+- Generates project **README documentation** and deployment steps
+- Built an interactive web interface using **Streamlit**
+- Connected the workflow with GitHub for project-oriented DevOps automation
+- Publicly deployed the application using Streamlit
 
 ---
 
@@ -237,39 +253,6 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Dannyyy7&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=4DA3FF&icon_color=64B5F6&text_color=90CAF9"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyyy7&layout=compact&hide_border=true&bg_color=00000000&title_color=4DA3FF&text_color=90CAF9"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Dannyyy7&hide_border=true&background=00000000&ring=4DA3FF&fire=64B5F6&currStreakLabel=4DA3FF&sideLabels=90CAF9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90CAF9"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -279,65 +262,6 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
   width="100%"
   alt="GitHub Activity Graph"
 />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--
-GitHub Action:
-
-Create:
-.github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Dannyyy7
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-blue
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
--->
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Dannyyy7/Dannyyy7/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Dannyyy7/Dannyyy7/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Dannyyy7/Dannyyy7/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
 
 </div>
 
@@ -372,7 +296,7 @@ jobs:
 
 ---
 
-## 💙 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
