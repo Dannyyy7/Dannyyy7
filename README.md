@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Subham Dani 👋
+⚡ Subham Dani | DevOps & Cloud Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Jenkins+%7C+Helm+%7C+ArgoCD;Linux+%7C+Git+%7C+GitHub+%7C+DevSecOps;Building+Cloud-Native+%26+Automated+Systems" alt="Typing SVG" />
 
@@ -52,7 +52,7 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
 <td width="35%" align="center">
 
 <img
-  src="https://media.giphy.com/media/PPVoHqHU2Wb2PPduEr/giphy.gif"
+  src="./assets/giphy.gif"
   width="260"
   alt="Blue Lightning"
 />
