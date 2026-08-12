@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/subham-dani/">
+<a href="https://www.linkedin.com/in/subham-dani-4a8810388?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img
   src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
   alt="LinkedIn"
