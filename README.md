@@ -21,6 +21,36 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/subham-dani/">
+<img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
+
+<a href="https://instagram.com/okayydannyy">
+<img
+  src="https://img.shields.io/badge/Instagram-1976D2?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+/>
+</a>
+
+<a href="mailto:subhamdani7781@gmail.com">
+<img
+  src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
+</a>
+
+</div>
+
+---
+
+
 ## 👨‍💻 About Me
 
 <table>
@@ -262,35 +292,6 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
   width="100%"
   alt="GitHub Activity Graph"
 />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/subham-dani/">
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-<a href="https://instagram.com/okayydannyyy">
-<img
-  src="https://img.shields.io/badge/Instagram-1976D2?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
-</a>
-
-<a href="mailto:subhamdani7781@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-</a>
 
 </div>
 
