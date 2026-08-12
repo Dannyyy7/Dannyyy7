@@ -173,6 +173,12 @@ I'm an aspiring **DevOps & Cloud Engineer** passionate about building reliable, 
                     ┌────┴────┐
                     ▼         ▼
                   Pods     Services
+```
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
